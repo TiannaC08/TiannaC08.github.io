@@ -56,9 +56,10 @@ main {
     padding: 15px;
 }
 
+
 /* portfolio styles */
 #interests {
-    border: 4px rgb(237, 237, 237) rgb(255, 0, 251);
+    border: 4px rgb(209, 47, 47) rgb(255, 0, 251);
     padding: 8px;
 }
 h2, h3 {
@@ -70,7 +71,7 @@ img{
 }
          /* portfolio styles */
          .content h1 {
-            color: black;
+            color: rgb(255, 0, 149);
         }
 
         #portfolio {
